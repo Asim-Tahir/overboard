@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: bdec2cd963224e24fa4215ffc158e51e
+guid: 22731bbfc68134ed58d30dcfa5c93dbe
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 225277
-  packageName: Skateboard Animated (Cartoonic)
-  packageVersion: 1.0
-  assetPath: Assets/SkateBoard/Prefabs/SkateBoard_10.prefab
-  uploadId: 510406
