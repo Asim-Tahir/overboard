@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9152df20a35214c20bef19136fa4da4a, type: 3}
+  m_Name: SkullSkateboard
+  m_EditorClassIdentifier: Assembly-CSharp::Skateboard
+  Name: Skull Skateboard
+  PreviewPrefab: {fileID: 1683282144007041448, guid: 2b44a1aa0a8b0b244b10bb5a2836ad40, type: 3}
+  PlayablePrefab: {fileID: 1683282144007041448, guid: 2b44a1aa0a8b0b244b10bb5a2836ad40, type: 3}
+  Speed: 7
+  Handling: 23
